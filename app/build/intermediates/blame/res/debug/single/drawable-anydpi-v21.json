@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_drawable.xml",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_drawable.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_movie.xml",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_movie.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_menu.xml",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_menu.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_time.xml",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_time.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_laptop.xml",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_laptop.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_mood.xml",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_mood.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_cloud.xml",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_cloud.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_loop.xml",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_loop.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_search.xml",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_search.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_work.xml",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_work.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\vector_icon_palette.xml",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\vector_icon_palette.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\heart.xml",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\heart.xml"
+    }
+]

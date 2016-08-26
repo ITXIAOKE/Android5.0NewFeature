@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\vector_icon_search.png",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\vector_icon_search.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\vector_icon_cloud.png",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\vector_icon_cloud.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\vector_icon_mood.png",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\vector_icon_mood.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\vector_icon_loop.png",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\vector_icon_loop.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\vector_drawable.png",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\vector_drawable.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\vector_icon_laptop.png",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\vector_icon_laptop.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\vector_icon_movie.png",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\vector_icon_movie.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\vector_icon_menu.png",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\vector_icon_menu.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\heart.png",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\heart.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\vector_icon_time.png",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\vector_icon_time.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\vector_icon_palette.png",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\vector_icon_palette.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\vector_icon_work.png",
+        "source": "E:\\AndroidStudioProjects\\Android5.0\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\vector_icon_work.png"
+    }
+]
